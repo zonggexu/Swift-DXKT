@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "WSlaunchImg@1.jpg",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WSlaunchImg@2.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WSlaunchImg@3.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "WSlaunchImg5.5.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "filename" : "WSlaunchImg4.7.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "subtype" : "667h"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
