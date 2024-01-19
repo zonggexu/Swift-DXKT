@@ -1,6 +1,0 @@
-module RxGesture {
-  umbrella header "RxGesture-umbrella.h"
-
-  export *
-  module * { export * }
-}
