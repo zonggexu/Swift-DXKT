@@ -52,10 +52,12 @@ class FourViewController: BaseViewController {
             }
         }
         
-        let isoString = "2023-10-18T15:03:24.266080+08:00"
+        
+        let isoString = "2024-07-17T19:24:18.602+08:00"
         // 使用 ISO8601DateFormatter 解析日期字符串
         // 2023-10-18T07:15:22Z ISO8601时间
         // 2023-10-18T15:03:24.266080+08:00 RFC3339时间
+        // 2024-07-17T19:24:18.602+08:00
         let isoFormatter = ISO8601DateFormatter()
         isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
 
